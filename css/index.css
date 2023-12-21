@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.sample-div {
+  background-color: antiquewhite;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.sample-text {
+  font-size: 1.5vw;
+}
